@@ -1,0 +1,9 @@
+D:\Users\巴黎的信笺。\Documents\Visual Studio 2013\Projects\CRC-16\CRC-16\bin\Debug\CRC-16.exe.config
+D:\Users\巴黎的信笺。\Documents\Visual Studio 2013\Projects\CRC-16\CRC-16\bin\Debug\CRC-16.exe
+D:\Users\巴黎的信笺。\Documents\Visual Studio 2013\Projects\CRC-16\CRC-16\bin\Debug\CRC-16.pdb
+D:\Users\巴黎的信笺。\Documents\Visual Studio 2013\Projects\CRC-16\CRC-16\obj\Debug\CRC_16.Form1.resources
+D:\Users\巴黎的信笺。\Documents\Visual Studio 2013\Projects\CRC-16\CRC-16\obj\Debug\CRC_16.Properties.Resources.resources
+D:\Users\巴黎的信笺。\Documents\Visual Studio 2013\Projects\CRC-16\CRC-16\obj\Debug\CRC-16.csproj.GenerateResource.Cache
+D:\Users\巴黎的信笺。\Documents\Visual Studio 2013\Projects\CRC-16\CRC-16\obj\Debug\CRC-16.exe
+D:\Users\巴黎的信笺。\Documents\Visual Studio 2013\Projects\CRC-16\CRC-16\obj\Debug\CRC-16.pdb
+D:\Users\巴黎的信笺。\Documents\Visual Studio 2013\Projects\CRC-16\CRC-16\obj\Debug\CRC-16.csprojResolveAssemblyReference.cache
